@@ -146,11 +146,10 @@
                         <constraints>
                             <constraint firstItem="uSo-qK-MGB" firstAttribute="top" secondItem="iwr-Ds-2fM" secondAttribute="bottom" constant="10" id="7WP-yw-Vh3"/>
                             <constraint firstItem="WDh-WD-Pha" firstAttribute="trailing" secondItem="128-Vo-3sa" secondAttribute="trailing" id="9bv-dZ-o9h"/>
+                            <constraint firstItem="PvS-RY-4R1" firstAttribute="top" secondItem="iwr-Ds-2fM" secondAttribute="bottom" constant="10" id="CXt-pw-oRT"/>
                             <constraint firstItem="WDh-WD-Pha" firstAttribute="top" secondItem="MdX-eo-wwX" secondAttribute="bottom" constant="10" id="It4-o3-6kI"/>
-                            <constraint firstItem="PvS-RY-4R1" firstAttribute="centerY" secondItem="iwr-Ds-2fM" secondAttribute="centerY" id="JoC-ya-etY"/>
                             <constraint firstItem="128-Vo-3sa" firstAttribute="trailing" secondItem="MdX-eo-wwX" secondAttribute="trailing" constant="10" id="KEX-2h-uqK"/>
                             <constraint firstItem="uSo-qK-MGB" firstAttribute="leading" secondItem="128-Vo-3sa" secondAttribute="leading" constant="10" id="Rnd-uz-gw9"/>
-                            <constraint firstItem="PvS-RY-4R1" firstAttribute="top" secondItem="iwr-Ds-2fM" secondAttribute="bottom" constant="10" id="Spo-z3-eQ9"/>
                             <constraint firstItem="MdX-eo-wwX" firstAttribute="top" secondItem="aNh-Lf-OfN" secondAttribute="bottom" constant="10" id="TsO-aT-AvH"/>
                             <constraint firstItem="aNh-Lf-OfN" firstAttribute="top" secondItem="uSo-qK-MGB" secondAttribute="bottom" constant="10" id="Ycs-88-enH"/>
                             <constraint firstItem="iwr-Ds-2fM" firstAttribute="leading" secondItem="128-Vo-3sa" secondAttribute="leading" constant="10" id="aQA-T8-2sa"/>

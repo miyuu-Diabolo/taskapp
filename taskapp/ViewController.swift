@@ -32,6 +32,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         tableView.dataSource = self
         categorySearchTextField.addTarget(self, action: #selector(categorySearchTextFieldDidChange(_:)), for: .editingChanged)
         let tapGesture: UITapGestureRecognizer = UITapGestureRecognizer(target:self, action:#selector(dismissKeyboard))
+        tapGesture.cancelsTouchesInView = false
         self.view.addGestureRecognizer(tapGesture)
     }
     @objc func dismissKeyboard(){
